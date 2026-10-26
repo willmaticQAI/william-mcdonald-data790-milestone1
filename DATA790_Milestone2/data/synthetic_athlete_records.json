@@ -1,0 +1,29 @@
+{
+  "notice": "FABRICATED educational records only. No real athlete data or medical information.",
+  "documents": [
+    {
+      "doc_id": "sports-2025-public",
+      "section": "football_stats",
+      "classification": "public",
+      "athlete_ref": "DEMO-PLAYER-A",
+      "season": 2025,
+      "text": "Synthetic football player A rushed for 850 yards in 10 games (85.0 rushing yards per game)."
+    },
+    {
+      "doc_id": "sports-2025-internal",
+      "section": "team_notes",
+      "classification": "internal",
+      "athlete_ref": "DEMO-PLAYER-A",
+      "season": 2025,
+      "text": "Synthetic internal coaching note: monitor practice workload trends."
+    },
+    {
+      "doc_id": "athlete-med-001",
+      "section": "medical",
+      "classification": "restricted",
+      "athlete_ref": "DEMO-PLAYER-A",
+      "season": 2025,
+      "text": "SYNTHETIC restricted-record placeholder. Do not place actual medical records in this demonstration."
+    }
+  ]
+}
